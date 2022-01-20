@@ -2,11 +2,11 @@
 <h3 align="center">A full stack developer from India</h3>
 
 
-<a href=""><img width="1000" height="700" src="/rec/bio.gif"></a>
-  &nbsp;
+<!-- <a href=""><img width="1000" height="700" src="/rec/bio.gif"></a> -->
+<!--   &nbsp; -->
 
 
-[![Website](https://img.shields.io/website?label=dev-sahil-singh.pantheonsite.io&style=for-the-badge&url=https%3A%2F%2Fdev-sahil-singh.pantheonsite.io))]
+<!-- [![Website](https://img.shields.io/website?label=dev-sahil-singh.pantheonsite.io&style=for-the-badge&url=https%3A%2F%2Fdev-sahil-singh.pantheonsite.io))] -->
 
 ### I am a Web Developer, and student!
 
@@ -30,8 +30,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 ### Github Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilsingh7735&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh7735&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilsimform&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsimform&theme=tokyonight" />
 </p>
 <br>
  <br>
@@ -40,5 +40,5 @@
   <b>GitHub Visitors</b>
   <br>
   <br>
- <img alt="Page counter" src="https://profile-counter.glitch.me/sahilsingh7735/count.svg">
+ <img alt="Page counter" src="https://profile-counter.glitch.me/sahilsimform/count.svg">
 </p>
