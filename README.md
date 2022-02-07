@@ -10,7 +10,7 @@
 
 ### I am a Web Developer.
 
-- 🔭  I just created this simple to use youtube video downloader: 
+- 🔭  I just created Flip Cart Clone: 
 - 🌱 I’m currently learning **React**
 - 👯 Open to collaborate and learn about new technologies.
 - 🥅 2022 Goals: Learn ReactJs
