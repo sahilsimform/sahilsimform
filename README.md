@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from India</h3>
 
 
-<!-- <a href=""><img width="1000" height="700" src="/rec/bio.gif"></a> -->
+<a href=""><img width="1000" height="700" src="https://imgur.com/a/tjTUrrX"></a> 
 <!--   &nbsp; -->
 
 
