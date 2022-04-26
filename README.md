@@ -6,7 +6,7 @@ web developer
 
 * 🌍  I'm based in Ahmedabad
 * 🖥️  See my portfolio at [My Portfolio](http://dev-sahil-singh.pantheonsite.io)
-* ✉️  You can contact me at [sahilsingh7753@gmail.com](mailto:sahilsingh7753@gmail.com)
+* ✉️  You can contact me at [sahilsinghsimform@gmail.com](mailto:sahilsinghsimform.com)
 * 🧠  I'm learning NextJS, VueJS.
 
 ### Skills
