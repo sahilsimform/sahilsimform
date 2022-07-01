@@ -66,6 +66,6 @@ web developer
   <b>GitHub Visitors</b>
   <br>
   <br>
- <img alt="Page counter" src="https://profile-counter.glitch.me/sahilsimform/count.svg">
+<img alt="Page counter" src="https://profile-counter.glitch.me/sahilsimform/count.svg">
 </p>
 
